@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.local
+firebase-config.js
+
+# Build files
+/mobile/android/app/build
+/mobile/ios/build
+/mobile/ios/Pods
+/node_modules
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase emulator
+/backend/functions/emulator-data
